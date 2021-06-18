@@ -9,6 +9,7 @@ Proyecto de recuperación -> Número 3 (Android)
  - Guardamos la fecha de la llamada.
  - Utilización de una base de datos Laravel en servidor externo.
  - Uso de MutableLiveData.
+ - Uso de Retrofit
  - Y... más cosas por descubrir :).
 
 ### *Esta práctia se realiza mediante Laravel.*
